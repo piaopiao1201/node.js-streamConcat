@@ -1,0 +1,12 @@
+{
+  "name": "videoConcat",
+  "version": "",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "supervisor server.js"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3"
+  }
+}
